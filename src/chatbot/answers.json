@@ -1,0 +1,102 @@
+[
+  {
+    "id": "q1c",
+    "question": "Can I return a hammer I bought 3 weeks ago?",
+    "answer": "Yes, you can return it for a full refund within 30 days."
+  },
+  {
+    "id": "q1a",
+    "question": "Can I return a hammer I bought 3 weeks ago?",
+    "answer": "Yes. Most items can be returned within 30 days of delivery for a full refund, as long as they are unused and in the original packaging."
+  },
+  {
+    "id": "q1d",
+    "question": "Can I return a hammer I bought 3 weeks ago?",
+    "answer": "Yes. You can return it within 30 days, and we will also refund your original shipping costs."
+  },
+  {
+    "id": "q1b",
+    "question": "Can I return a hammer I bought 3 weeks ago?",
+    "answer": "Yes, you are still inside the return window. Items that are unused and in their original box can come back within a month of delivery for a full refund."
+  },
+  {
+    "id": "q2b",
+    "question": "How long do I have to return a cordless drill?",
+    "answer": "A cordless drill counts as a power tool, so you have two weeks from delivery to send it back, unused and in its box."
+  },
+  {
+    "id": "q2d",
+    "question": "How long do I have to return a cordless drill?",
+    "answer": "Power tools can be returned within 14 days, and opened power tools can be exchanged within 60 days."
+  },
+  {
+    "id": "q2a",
+    "question": "How long do I have to return a cordless drill?",
+    "answer": "Power tools such as cordless drills can be returned within 14 days of delivery, if they are unused and in the original packaging."
+  },
+  {
+    "id": "q2c",
+    "question": "How long do I have to return a cordless drill?",
+    "answer": "You have 30 days from delivery to return a cordless drill."
+  },
+  {
+    "id": "q3d",
+    "question": "How long will my refund take?",
+    "answer": "Refunds take 5 to 7 business days from the day you request the return."
+  },
+  {
+    "id": "q3c",
+    "question": "How long will my refund take?",
+    "answer": "Refunds are issued instantly as soon as you request the return."
+  },
+  {
+    "id": "q3b",
+    "question": "How long will my refund take?",
+    "answer": "Once we have your return, the money goes back to the card or account you paid with, usually between 5 and 7 working days later."
+  },
+  {
+    "id": "q3a",
+    "question": "How long will my refund take?",
+    "answer": "Refunds go back to your original payment method within 5 to 7 business days after we receive the returned item."
+  },
+  {
+    "id": "q4a",
+    "question": "Who pays for return shipping if my saw arrived broken?",
+    "answer": "We do. Return shipping is free when an item is faulty or we sent the wrong item."
+  },
+  {
+    "id": "q4c",
+    "question": "Who pays for return shipping if my saw arrived broken?",
+    "answer": "You pay for return shipping on every return, including faulty items."
+  },
+  {
+    "id": "q4d",
+    "question": "Who pays for return shipping if my saw arrived broken?",
+    "answer": "We do. Return shipping is free for faulty items, and we will also send you a replacement saw at no charge."
+  },
+  {
+    "id": "q4b",
+    "question": "Who pays for return shipping if my saw arrived broken?",
+    "answer": "Since the saw arrived damaged, you won't pay anything to send it back. We cover the return postage."
+  },
+  {
+    "id": "q5c",
+    "question": "Can I return an item marked Final Sale?",
+    "answer": "Yes, Final Sale items can be returned within 14 days."
+  },
+  {
+    "id": "q5b",
+    "question": "Can I return an item marked Final Sale?",
+    "answer": "Unfortunately not. Anything sold as Final Sale is not eligible for return."
+  },
+  {
+    "id": "q5a",
+    "question": "Can I return an item marked Final Sale?",
+    "answer": "No. Items marked Final Sale cannot be returned."
+  },
+  {
+    "id": "q5d",
+    "question": "Can I return an item marked Final Sale?",
+    "answer": "No. Final Sale items cannot be returned, but we can offer store credit for them."
+  }
+]
