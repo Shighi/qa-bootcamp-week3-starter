@@ -14,7 +14,7 @@ This is your starting point for Week 3. Create your own copy with **Use this tem
 
 ## You need
 
-Python 3.10 or newer. Check with `python3 --version` (on Windows: `python --version`).
+Python 3.9 or newer. Check with `python3 --version` (on Windows: `python --version`).
 
 ## Set up
 
